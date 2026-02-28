@@ -642,3 +642,29 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Star this repository if you find it helpful!
 
 </div>
+
+## Streamlit Dashboard (Added by Blessing)
+
+This project now includes an interactive Streamlit dashboard for:
+
+- Customer churn KPIs
+- Behavioural insights (spend, trips vs churn)
+- Segment risk analysis
+- Customer-level filtering and export
+- Real-time churn prediction via FastAPI
+
+### How to Run
+
+1. Start FastAPI
+
+2. Run Streamlit
+
+### Features
+
+- KPI metrics (customers, churn rate, ARPU)
+- Churn distribution visualization
+- Segment-level churn analysis
+- Highest-risk segment detection
+- Customer-level API scoring with risk classification
+
+Built and extended by **Blessing Kugbiyi**.
